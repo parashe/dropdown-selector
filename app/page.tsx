@@ -1,6 +1,6 @@
 
 
-import  Index  from "./MultiselectDropdown/index.tsx";
+import  {Index} from "./MultiselectDropdown/index";
 
 import { ParentDropDownselect } from "./DropdownSingle";
 
